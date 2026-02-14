@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: Breyonna Jordan
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Writing
+        href: writing.qmd
+      - text: Resume
+        href: resume.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

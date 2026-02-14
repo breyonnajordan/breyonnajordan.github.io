@@ -1,0 +1,17 @@
+---
+title: Psychology of Social Action Op-Ed
+date: 2025-02-01
+status: selected 
+collections: university-major 
+methods: [persuasive-writing, presentation-design]
+outputs: [research, presentation] 
+tools: [R, Qualtrics]
+origin: course-final 
+notes: "first time using qualtrics"
+---
+
+
+ddd
+dddd
+##jjfj
+

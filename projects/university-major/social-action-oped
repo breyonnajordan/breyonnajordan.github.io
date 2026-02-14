@@ -1,0 +1,12 @@
+---
+title: Experimental Design Final Project
+date: 2025-02-01
+status: selected 
+collections: university-major 
+methods: [survey-design, causal-inference, statistical-modeling, data-visualization, experimental-design, academic-writing, presentation-design]
+outputs: [research, presentation] 
+tools: [R, Qualtrics]
+origin: course-final 
+notes: "first time using qualtrics"
+---
+

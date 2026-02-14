@@ -1,0 +1,99 @@
+/* ---------------------------
+   Fonts
+---------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Poppins:wght@400;600;700&display=swap');
+:root{
+    --bg:#fff8ef;
+    --text:#003006;
+    --accent:#055b11;
+    --muted:#6A6F63;
+}
+
+/*Regular Text Page Style*/
+body{
+background: var(--bg);
+color: var(--text);
+font-family: "Lora", Georgia, serif;
+}
+
+/*Headings*/
+h1, h2, h3, h4, h5, h6{
+font-family: "Poppins", Arial, sans-serif;
+color: var(--accent);
+} 
+
+/*Body Links*/
+main a{
+color: var(--accent);
+text-decoration: none;}
+
+/*Heading Links*/
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+color: inherit;
+text-decoration: none;
+font-weight: inherit;
+}
+
+/*Hover Effects- just adds an underline*/
+a:hover{
+text-decoration: underline;
+color: var(--accent);
+}
+
+/*accent buttons*/
+
+.btn{
+background-color: var(--accent);
+color: var(--bg);
+padding: 0.4 rem 0.8 rem;
+border-radius: 8px;
+text-decoration: none;
+}
+
+/*Navbar*/
+.navbar{
+background-color: var(--text) !important;
+}
+
+.navbar a,
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link {
+color: var(--bg) !important;
+}
+
+/*Table of Contents*/
+.nav-link {
+color: var(--text) !important;
+text-decoration: none !important;
+}
+
+.nav-link:hover{
+color: var(--accent) !important;
+text-decoration: underline !important;
+}
+
+.nav-link.toc-active{
+color: var(--text) !important;
+}
+
+
+/* ---------------------------
+  Layout
+---------------------------- */
+
+
+/*Project Page*/
+
+.project-card {
+    margin-bottom: 2.5rem;
+    padding-bottom: 2.5rem; 
+    border-bottom: 1px solid var(--muted);
+}
+
+.project-img{
+    width: 100%;
+    height: 280px; 
+    object-fit: cover;
+    border-radius: 14px;
+    border: 3px solid var(--muted);
+}

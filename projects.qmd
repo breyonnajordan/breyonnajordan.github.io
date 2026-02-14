@@ -1,0 +1,56 @@
+---
+title: "Projects"
+---
+
+
+Selected projects and research.
+
+::: {.project-card}
+
+:::: {layout="[7.5,4.5]"}
+
+::::: {#text}
+
+## University Major Portfolio
+
+As part of my assessment for the Data & Communication major, I practiced various modes of academic and persuasive writing. Key works are assembled in this collection. 
+
+
+[View Project](projects/university-major.qmd){.btn}
+
+:::::
+
+::::: {#image .project-img-wrapper} 
+
+[![Project Image](images/university-major.png){.project-img}](projects/university-major.qmd)
+
+:::::
+
+::::
+
+:::
+
+
+::: {.project-card}
+
+:::: {layout="[5,7]"}
+
+::::: {#image .project-img-wrapper}
+
+[![Project Image](images/university-major.png){.project-img}](projects/sample-project.qmd)
+
+:::::
+
+::::: {#text}
+
+## Sample Project
+
+Here's the project description.
+
+[View Project](projects/university-major.qmd){.btn}
+
+:::::
+
+::::
+
+:::

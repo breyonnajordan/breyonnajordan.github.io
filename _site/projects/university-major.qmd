@@ -1,0 +1,10 @@
+---
+title: University Major portfolio
+---
+
+This page contains the relevant artifacts documenting my progress with my Wesleyan University Major in Data & Communications
+
+It includes selected research, data, articles, and analysis. 
+
+## Included Work
+- [Sample Project](sample-project.qmd)

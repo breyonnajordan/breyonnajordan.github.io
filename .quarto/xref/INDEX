@@ -1,0 +1,38 @@
+{
+  "resume.qmd": {
+    "resume.html": "8ba150b7"
+  },
+  "projects.qmd": {
+    "projects.html": "35417230"
+  },
+  "index.qmd": {
+    "index.html": "7de41258"
+  },
+  "writing.qmd": {
+    "writing.html": "be436f47"
+  },
+  "portfolio.qmd": {
+    "portfolio.html": "753383b0"
+  },
+  "projects/sample-project.qmd": {
+    "sample-project.html": "4a94496d"
+  },
+  "projects/university-major.qmd": {
+    "university-major.html": "055a07d7"
+  },
+  "projects/sample-project copy.qmd": {
+    "sample-project copy.html": "03bb77fd"
+  },
+  "university-major/experimental-design-final.qmd": {
+    "experimental-design-final.html": "e93ff229"
+  },
+  "projects/university-major/experimental-design-final.qmd": {
+    "experimental-design-final.html": "7a33c0de"
+  },
+  "projects/university-major/social-action-oped.qmd": {
+    "social-action-oped.html": "974e4b6e"
+  },
+  "projects/university-major/change-talk-experiment.qmd": {
+    "change-talk-experiment.html": "3948a59d"
+  }
+}
