@@ -21,39 +21,25 @@
     "text": "Welcome to my portfolio! This site documents my work in data, research, and writing."
   },
   {
-    "objectID": "projects/sample-project copy.html",
-    "href": "projects/sample-project copy.html",
-    "title": "Sample Project",
+    "objectID": "projects/university-major.html",
+    "href": "projects/university-major.html",
+    "title": "University Major Portfolio",
     "section": "",
-    "text": "Abstract of the project"
+    "text": "During the fall of my junior year, I pitched and was approved for a self-designed University Major in Data & Communication.\nThe major considers data and rhetoric as two languages of evidence that together influence how contemporary societies understand truth, establish credibility, and motivate collective action. It aims to study communication empirically, examine the communication of data ethically, and to explore how these modes of evidence operate in tandem and shape our perspectives on data, rhetoric, and the social world.\nAs part of my assessment for this major, I have developed a portfolio exploring a range of genres and audiences. The following artifacts span everything from survey design to statistical modeling to presentation development to persuasive writing. The goal is to practice writing modes from all three pillars of the major: Data Analysis and Research Methodology, Rhetorical Theory and Writing Praxis, and the Social Psychology of Civic Engagement; and reflect on these interdisciplinary approaches."
   },
   {
-    "objectID": "projects/sample-project copy.html#overview",
-    "href": "projects/sample-project copy.html#overview",
-    "title": "Sample Project",
+    "objectID": "projects/university-major.html#included-work",
+    "href": "projects/university-major.html#included-work",
+    "title": "University Major Portfolio",
+    "section": "Included Work",
+    "text": "Included Work\n\nExperimental Design Final Project\nPsychology Seminar on Social Action Op-Ed\nData Journalism Term Project\nTutorial in Rhetoric, Genre, and Discourse Final Project\nCapstone: Academic Write-Up\nCapstone: Public Explainer\nCapstone: Presentation and Oral Defense"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "Abstract of the project"
-  },
-  {
-    "objectID": "projects/sample-project copy.html#what-i-did",
-    "href": "projects/sample-project copy.html#what-i-did",
-    "title": "Sample Project",
-    "section": "What I Did",
-    "text": "What I Did\nnotes on the process"
-  },
-  {
-    "objectID": "projects/sample-project copy.html#why-it-matters",
-    "href": "projects/sample-project copy.html#why-it-matters",
-    "title": "Sample Project",
-    "section": "Why It Matters",
-    "text": "Why It Matters\nimportance of this project"
-  },
-  {
-    "objectID": "projects/sample-project copy.html#links",
-    "href": "projects/sample-project copy.html#links",
-    "title": "Sample Project",
-    "section": "Links",
-    "text": "Links\n\nGithub Repo\nPaper (PDF)\nInteractive Visualization"
+    "text": "This page will hold a PDF copy of my most recent resume.\n\n\n\n\n\n\nDownload"
   },
   {
     "objectID": "projects/university-major/change-talk-experiment.html",
@@ -112,81 +98,18 @@
     "text": "Links\n\nGithub Repo\nResearch Paper (PDF)\nPoster (PDF)\nPresentation (PDF)"
   },
   {
-    "objectID": "projects/sample-project.html",
-    "href": "projects/sample-project.html",
-    "title": "Sample Project",
-    "section": "",
-    "text": "Abstract of the project"
-  },
-  {
-    "objectID": "projects/sample-project.html#overview",
-    "href": "projects/sample-project.html#overview",
-    "title": "Sample Project",
-    "section": "",
-    "text": "Abstract of the project"
-  },
-  {
-    "objectID": "projects/sample-project.html#what-i-did",
-    "href": "projects/sample-project.html#what-i-did",
-    "title": "Sample Project",
-    "section": "What I Did",
-    "text": "What I Did\nnotes on the process"
-  },
-  {
-    "objectID": "projects/sample-project.html#why-it-matters",
-    "href": "projects/sample-project.html#why-it-matters",
-    "title": "Sample Project",
-    "section": "Why It Matters",
-    "text": "Why It Matters\nimportance of this project"
-  },
-  {
-    "objectID": "projects/sample-project.html#links",
-    "href": "projects/sample-project.html#links",
-    "title": "Sample Project",
-    "section": "Links",
-    "text": "Links\n\nGithub Repo\nPaper (PDF)\nInteractive Visualization"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "This page will hold a PDF copy of my most recent resume.\n\n\n\n\n\n\nDownload"
-  },
-  {
-    "objectID": "projects/university-major/social-action-oped.html",
-    "href": "projects/university-major/social-action-oped.html",
-    "title": "Psychology of Social Action Op-Ed",
-    "section": "",
-    "text": "ddd dddd ##jjfj"
-  },
-  {
-    "objectID": "projects/university-major.html",
-    "href": "projects/university-major.html",
-    "title": "University Major Portfolio",
-    "section": "",
-    "text": "During the fall of my junior year, I pitched and was approved for a self-designed University Major in Data & Communication.\nThe major considers data and rhetoric as two languages of evidence that together influence how contemporary societies understand truth, establish credibility, and motivate collective action. It aims to study communication empirically, examine the communication of data ethically, and to explore how these modes of evidence operate in tandem and shape our perspectives on data, rhetoric, and the social world.\nAs part of my assessment for this major, I have developed a portfolio exploring a range of genres and audiences. The following artifacts span everything from survey design to statistical modeling to presentation development to persuasive writing. The goal is to practice writing modes from all three pillars of the major: Data Analysis and Research Methodology, Rhetorical Theory and Writing Praxis, and the Social Psychology of Civic Engagement; and reflect on these interdisciplinary approaches."
-  },
-  {
-    "objectID": "projects/university-major.html#included-work",
-    "href": "projects/university-major.html#included-work",
-    "title": "University Major Portfolio",
-    "section": "Included Work",
-    "text": "Included Work\n\nExperimental Design Final Project\nPsychology Seminar on Social Action Op-Ed\nData Journalism Term Project\nTutorial in Rhetoric, Genre, and Discourse Final Project\nCapstone: Academic Write-Up\nCapstone: Public Explainer\nCapstone: Presentation and Oral Defense"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Selected projects and research."
+    "text": "Selected projects and collections."
   },
   {
     "objectID": "projects.html#university-major-portfolio",
     "href": "projects.html#university-major-portfolio",
     "title": "Projects",
     "section": "University Major Portfolio",
-    "text": "University Major Portfolio\nAs part of my assessment for the Data & Communication major, I practiced various modes of academic and persuasive writing. Key works are assembled in this collection.\nView Project"
+    "text": "University Major Portfolio\nAs part of my assessment for the Data & Communication major, I practiced various modes of academic and persuasive writing. Key works are assembled in this collection.\nView Collection"
   },
   {
     "objectID": "projects.html#sample-project",

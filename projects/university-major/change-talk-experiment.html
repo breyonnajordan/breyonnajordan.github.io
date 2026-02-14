@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2025-02-01">
 
-<title>Psychology of Social Action Op-Ed – Breyonna Jordan</title>
+<title>An Experimental Test of Change Talk Exposure in Civic Contexts – Breyonna Jordan</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -118,15 +118,27 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#poster" id="toc-poster" class="nav-link" data-scroll-target="#poster">Poster</a></li>
+  <li><a href="#context-constraints" id="toc-context-constraints" class="nav-link" data-scroll-target="#context-constraints">Context &amp; Constraints</a></li>
+  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
+  <li><a href="#what-i-learned" id="toc-what-i-learned" class="nav-link" data-scroll-target="#what-i-learned">What I Learned</a></li>
+  <li><a href="#so-what" id="toc-so-what" class="nav-link" data-scroll-target="#so-what">So What?</a></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">Links</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Psychology of Social Action Op-Ed</h1>
+<h1 class="title">An Experimental Test of Change Talk Exposure in Civic Contexts</h1>
 </div>
 
 
@@ -149,9 +161,68 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>ddd dddd ##jjfj</p>
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>Motivational Interviewing (MI) is a therapeutic technique often successfully applied in medical contexts to encourage patients to engage in pro-health behaviors, such as vaccinating children or quitting narcotics.</p>
+<p>For this project, I wanted to see if one aspect of MI, the cultivation of change talk, could be used to affect participants’ civic engagement, adding to the growing body of interdisciplinary research seeking to drive people towards actions that make the world a better place by drawing on political theory, sociology, and psychology.</p>
+<p>I decided to design an experiment using a Qualtrics survey to determine if viewing change talk, and its inverse, sustain talk would affect participants beliefs and intentions to engage in two forms of everyday activism, signing petitions and making small donations.</p>
+<p>My statistical modeling in R did not provide significant results, indicating that that brief exposures to change talk may not be sufficient to shift intentions, but also that exposure to sustain talk may not be able to do the same.</p>
+<p>To share these findings, I wrote a research paper, delivered a presentation, and devised a poster, all linked below.</p>
+</section>
+<section id="poster" class="level2">
+<h2 class="anchored" data-anchor-id="poster">Poster</h2>
+<div class="resume-viewer">
+<div id="text">
+<iframe src="change-talk-poster.pdf" width="100%" height="1100px">
+</iframe>
+</div>
+</div>
+</section>
+<section id="context-constraints" class="level2">
+<h2 class="anchored" data-anchor-id="context-constraints">Context &amp; Constraints</h2>
+<p>This project grew from a desire to bridge related interests of mine: psychology, communication, and persuasion, through research seeking to drive civic engagement. In my reading, I stumbled upon MI and learned that there was a growing body of literature successfully applying its tactics to new contexts, including business leadership, physicians’ continued education, and limited civic engagement research. However, while MI has seen wide success as an intervention, it’s also a complex therapeutic technique.</p>
+<p>Due to concerns about the feasibility of a project employing MI in full: lack access to paid trainings, unlikely IRB approval for such interventions, and the small sample size an interview-based intervention would garner; change talk—a core element MI associated with sustained, positive behavioral change—was assessed instead. The simple principles of change and sustain talk made it possible to develop a straightforward experiment and a fast, easy to complete survey that could host more questions and obtain more participants.</p>
+</section>
+<section id="approach" class="level2">
+<h2 class="anchored" data-anchor-id="approach">Approach</h2>
+<p>For this study, I decided to compare the impact of change talk and sustain talk on civic engagement in two distinct forms of everyday collective action to assess whether my results were domain specific. I selected petition signing and small donations as they would be familiar to the most convenient and sizable population available: college students, while lacking the social pressure of domains like recycling and voting.</p>
+<p>From these domains and talk types, I was able to design a 4-level completely randomized design, using Qualtrics to assign each respondent to read a vignette discussing either petition signing or small donations, and a student’s decision to either change their habits of not engaging or sustain their current behavior. This random assignment helped ensure that results could be attributed to the experiment rather than any placement biases.</p>
+<p>I then used several Likert scales to develop composite scores, averaging 3 questions each: Petition-Intentions, Petition-Beliefs, Donation-Intentions, and Donation-Beliefs. I wanted to measure Intentions and Beliefs as I felt that the distinction between intending to do something and believing in the efficacy and viability of your action are distinct outcomes that don’t always overlap (e.g.&nbsp;you can believe that recycling isn’t helpful and still recycle because everyone you know does). I wanted to know which of these axes might be affected by exposure to change and sustain talk.</p>
+<p>I used AI to design the messaging and layout of a promotional poster, testing several options for tone, visibility, and ease. The flyers were hung across campus, ensuring that the sample wouldn’t simply reflect the groups I associated with. I also provided a 3-winner lottery of $10 gift cards, in line with research suggesting that smaller rewards participants were more likely to receive had the stronger impact. In total, I received 120 responses.</p>
+<p>I used the R package ordinal to conduct several ordinal analyses of variance (ANOVA), accounting for the use of Likert scales, and analyses of covariance (ANCOVA) to control for baseline civic engagement. While mean petition intention scores were higher for the petition-change talk groups, means were often variable, and I found no significant relationships between my explanatory and response variables. I tested my assumptions and used boxplots to make it easy to interpret the means, relationships, and variability of the data.</p>
+<div id="image" class="project-img-wrapper">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="vignette-ex.png" class="project-img img-fluid figure-img"></p>
+<figcaption>Project Image</figcaption>
+</figure>
+</div>
+</div>
+</section>
+<section id="what-i-learned" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-learned">What I Learned</h2>
+<p>As this was a class final, format was largely predetermined, a research paper and a presentation. However, I was later asked to convert the project into a poster for an event where prospective university students could learn about our department.</p>
+<p>While the paper remains a necessity for providing the greatest wealth of information and clarity surrounding my project, I found that the poster gave me a stronger understanding of my work due to its brevity and the ability to view several aspects simultaneously. I plan to turn more projects into posters, as they give me an easy, effective way to reconsider my research projects and share them with others.</p>
+<p>This experiment also taught me a lot about study design. In my results, I found that there were a lot of incomplete surveys, especially in later sections, as well as some surveys that, while complete, failed the attention check. There is an array of factors that could explain this and three that I think warrant discussion here.</p>
+<p>The first has to do with study length. While completable in 2-5 minutes, the survey wasn’t short. I chose to measure both intention and belief in social action. Looking back, having two response variables introduced excess complexity and, in a future case, I would study them separately and use fewer questions. I also think that in my promotion I overemphasized ease and potential monetary reward as motivations for completion. These are useful incentives, but they can undermine more intrinsic motivations, especially for longer surveys. Going forward I’d like to provide more balanced promotion.</p>
+<p>Finally, having the attention check end of the survey made it difficult to discern if participants had read the vignettes. In the future, I would use a reading check, that prevents participants from moving forward without the correct answer.</p>
+</section>
+<section id="so-what" class="level2">
+<h2 class="anchored" data-anchor-id="so-what">So What?</h2>
+<p>The insignificant results in this project offer an inspiring sign: while exposure to change talk does not appear to provide a substantial effect on participant behavior neither does its inverse—this means that more effortful attempts to change behavior may not be undermined by simple exposure to sustain talk.</p>
+<p>This project contributes to a growing body of literature that seeks to help organizers inspire individuals to engage civically and contribute to wider movements. Motivational Interviewing has been successful in cultivating personal change in a range of environments and research that looks to expand its practice and principles to other fields—and to test its limits—offers a strong opportunity to learn more about this tactic and about non-manipulative persuasion tactics writ large.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<ul>
+<li><a href="https://github.com/breyonnajordan/change-talk-experiment">Github Repo</a></li>
+<li><a href="change-talk-paper.pdf">Research Paper (PDF)</a></li>
+<li><a href="change-talk-poster.pdf">Poster (PDF)</a></li>
+<li><a href="change-talk-presentation.pdf">Presentation (PDF)</a></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
