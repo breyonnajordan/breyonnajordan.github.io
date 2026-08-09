@@ -2,13 +2,13 @@
 title: "Hi, I'm Breyonna."
 ---
 
-::: {.project-card}
+::: {.home-card}
 
 :::: {layout="[5.5,6.5]"}
 
 ::::: {#image .project-img-wrapper}
 
-[![Breyonna Jordan's Headshot](images/profile-pic.png){.project-img}](resume.qmd)
+[![Breyonna Jordan's Headshot](images/profile-pic.png){.home-img}](resume.qmd)
 
 :::::
 
@@ -16,7 +16,7 @@ title: "Hi, I'm Breyonna."
 
 ## Learner. Doer. Worldbuilder.
 
-Test: Examining how narrative and structure shape our social world. I use data analysis, research, and writing to contribute to the development of resilient, regenerative communities.
+Examining how narrative and structure shape our social world. I use data analysis, research, and writing to contribute to the development of resilient, regenerative communities.
 
 [View Project](projects/university-major.qmd){.btn}
 
@@ -26,3 +26,53 @@ Test: Examining how narrative and structure shape our social world. I use data a
 
 :::
 
+
+## Hero Section
+
+<div class="hero-banner">
+# 
+I am a learner, doer, and worldbuilder. Currently exploring data, research, and the ethics of technology.
+
+[View My Projects](projects.html){.btn .btn-primary} &nbsp; [Read My Writing](https://breyonnajordan.substack.com/){.btn .btn-outline-secondary}
+</div>
+
+---
+
+## About Me
+
+I am a college senior navigating the intersection of data science, political ethics, and creative writing. My work is driven by curiosity and a desire to build systems that are both functional and fair.
+
+- **Data & Research:** Analyzing social trends and experimental outcomes.
+- **Writing:** Exploring political theory and personal growth on Substack.
+- **Values:** Transparency, anti-colonialism, and community-driven tech.
+
+---
+
+## Selected Works
+
+::: {.columns}
+::: {.column width="50%"}
+### University Major Project
+**Change Talk Experiment**  
+A study on linguistic patterns in decision-making processes.
+
+[View Details](projects/university-major/change-talk-experiment.html)
+:::
+::: {.column width="50%"}
+### Social Action Op-Ed
+**Perspectives on Activism**  
+Reflections on digital organizing and real-world impact.
+
+[Read More](projects/social-action-oped.html) <!-- Adjust link as needed -->
+:::
+:::
+
+---
+
+## Get In Touch
+
+I am always open to connecting with fellow researchers, writers, and technologists.
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/breyonnajordan](https://linkedin.com/in/breyonnajordan)
+- **Substack:** [breyonnajordan.substack.com](https://breyonnajordan.substack.com/)
