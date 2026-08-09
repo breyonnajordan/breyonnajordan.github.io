@@ -1,11 +1,38 @@
 ---
-title: "Home"
+title: "Hi, I'm Breyonna."
 ---
+
+::: {.project-card}
+
+:::: {layout="[7.5,4.5]"}
+
+::::: {#text}
+
+## Learner. Doer. Worldbuilder.
+
+Examining how narrative and structure shape our social world. I use data analysis, research, and writing to contribute to the development of resilient, regenerative communities.
+
+
+[View Collection](projects/university-major.qmd){.btn}
+
+:::::
+
+::::: {#image .project-img-wrapper} 
+
+[![Project Image](images/profile-pic.jpg){.project-img}](resume.qmd)
+
+:::::
+
+::::
+
+:::
+
+
 
 ## Hero Section
 
 <div class="hero-banner">
-# Hi, I'm Breyonna.
+# 
 I am a learner, doer, and worldbuilder. Currently exploring data, research, and the ethics of technology.
 
 [View My Projects](projects.html){.btn .btn-primary} &nbsp; [Read My Writing](https://breyonnajordan.substack.com/){.btn .btn-outline-secondary}
