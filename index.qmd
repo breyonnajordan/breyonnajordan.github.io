@@ -16,7 +16,7 @@ title: "Hi, I'm Breyonna."
 
 ## Learner. Doer. Worldbuilder.
 
-Examining how narrative and structure shape our social world. I use data analysis, research, and writing to contribute to the development of resilient, regenerative communities.
+Test: Examining how narrative and structure shape our social world. I use data analysis, research, and writing to contribute to the development of resilient, regenerative communities.
 
 [View Project](projects/university-major.qmd){.btn}
 
