@@ -14,8 +14,8 @@ As part of my assessment for this major, I have developed a portfolio exploring 
 ## Included Work
 - [Experimental Design Final Project](university-major/change-talk-experiment.qmd)
 - [Psychology Seminar on Social Action Op-Ed](university-major/social-action-oped.qmd)
+- Multimodality Final Paper
 - Data Journalism Term Project
-- Tutorial in Rhetoric, Genre, and Discourse Final Project
 - Capstone: Academic Write-Up
 - Capstone: Public Explainer
 - Capstone: Presentation and Oral Defense
