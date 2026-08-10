@@ -69,6 +69,9 @@ information-design        # infographics, figures, diagrams
 literature-review         # reading and synthesizing sources
 content-analysis          # coding documents, media, texts
 policy-analysis           # analyzing policies, legislation
+genre-study               # studying writing genres, trying new genres
+rhetorical-analysis       # analyzing and applying persuasion strategies, rhetoric
+
 
 
 # --------------------------

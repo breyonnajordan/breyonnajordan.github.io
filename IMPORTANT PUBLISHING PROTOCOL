@@ -1,5 +1,4 @@
 quarto render
-cp -r _site/* .
 git add .
 git commit -m "update"
 git push

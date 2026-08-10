@@ -30,7 +30,6 @@ As part of my assessment for the Data & Communication major, I practiced various
 
 :::
 
-
 ::: {.project-card}
 
 :::: {layout="[5,7]"}
