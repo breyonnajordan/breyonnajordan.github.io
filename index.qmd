@@ -1,78 +1,90 @@
 ---
-title: "Hi, I'm Breyonna."
+title: "Glad you're here!"
 ---
 
 ::: {.home-card}
 
-:::: {layout="[5.5,6.5]"}
+::: {.columns}
 
-::::: {#image .project-img-wrapper}
+::: {.column width="42%"}
 
-[![Breyonna Jordan's Headshot](images/profile-pic.png){.home-img}](resume.qmd)
+![Breyonna Jordan's Headshot](images/profile-pic.png){.home-img}
 
-:::::
+:::
 
-::::: {#text}
+::: {.column width="53%"}
 
-## Learner. Doer. Worldbuilder.
+## I'm Breyonna.
 
-Examining how narrative and structure shape our social world. I use data analysis, research, and writing to contribute to the development of resilient, regenerative communities.
+As a worldbuilder, I see data and storytelling as languages of evidence that inform and motivate action. I use research and writing to support the development of resilient, regenerative communities.
 
 [View Project](projects/university-major.qmd){.btn}
 
-:::::
+:::
+
+:::
+
+:::
+
+---
+
+::: {.about-card}
+
+:::: {#text}
+
+## About Me
+
+I am a Wesleyan University senior investigating the relationships between data analysis and communication in public life. My work is fed by curiosity, imagination, and a desire to help build local communities and broader systems that support people and their homes while moving beyond extractive frameworks. 
+
+- **Data & Research:** Analyzing social-psychological tactics for increasing civic engagment 
+- **Writing:** Exploring social theory, community development, and personal growth on [Substack](https://breyonnajordan.substack.com/).
+- **Values:** Collaboration, Adaptability, and Inquiry
+
+
+[See My Resume](resume.qmd){.btn}
 
 ::::
 
 :::
 
 
-## Hero Section
-
-<div class="hero-banner">
-# 
-I am a learner, doer, and worldbuilder. Currently exploring data, research, and the ethics of technology.
-
-[View My Projects](projects.html){.btn .btn-primary} &nbsp; [Read My Writing](https://breyonnajordan.substack.com/){.btn .btn-outline-secondary}
-</div>
-
 ---
 
-## About Me
+::: {.selected-card}
 
-I am a college senior navigating the intersection of data science, political ethics, and creative writing. My work is driven by curiosity and a desire to build systems that are both functional and fair.
-
-- **Data & Research:** Analyzing social trends and experimental outcomes.
-- **Writing:** Exploring political theory and personal growth on Substack.
-- **Values:** Transparency, anti-colonialism, and community-driven tech.
-
----
-
-## Selected Works
+## From the Portfolio
 
 ::: {.columns}
-::: {.column width="50%"}
-### University Major Project
+::: {.column width="45%"}
+
+### Experimental Design Final
 **Change Talk Experiment**  
-A study on linguistic patterns in decision-making processes.
+A study on individual's change talk and civic engagement intentions. 
 
-[View Details](projects/university-major/change-talk-experiment.html)
+[Read More](projects/university-major/change-talk-experiment.html)
 :::
-::: {.column width="50%"}
+::: {.column width="45%"}
 ### Social Action Op-Ed
-**Perspectives on Activism**  
-Reflections on digital organizing and real-world impact.
+**Tempered Radicals**  
+Everyone can participate in building the future. 
 
-[Read More](projects/social-action-oped.html) <!-- Adjust link as needed -->
+[Read More](projects/social-action-oped.html)
 :::
+:::
+[View More Projects](projects.qmd){.btn}
 :::
 
 ---
 
-## Get In Touch
+:::{.selected-card}
 
-I am always open to connecting with fellow researchers, writers, and technologists.
+## Let's Connect!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/breyonnajordan](https://linkedin.com/in/breyonnajordan)
-- **Substack:** [breyonnajordan.substack.com](https://breyonnajordan.substack.com/)
+I am always open to connecting with fellow researchers, writers, and worldbuilders. 
+
+**Email:** [breyonnajordan@protonmail.com](mailto:breyonnajordan@protonmail.com)
+
+**LinkedIn:** [linkedin.com/in/breyonnajordan](https://linkedin.com/in/breyonnajordan)
+
+**Substack:** [breyonnajordan.substack.com](https://breyonnajordan.substack.com/)
+:::

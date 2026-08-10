@@ -120,3 +120,14 @@ color: var(--text) !important;
     border: 3px solid var(--muted);
     padding: 3rem 2rem;
 }
+
+.about-card {
+    margin-bottom: 1.5rem;
+    padding: 6rem;
+}
+
+
+.about-card h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}

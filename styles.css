@@ -45,7 +45,7 @@ color: var(--accent);
 .btn{
 background-color: var(--accent);
 color: var(--bg);
-padding: 0.4 rem 0.8 rem;
+padding: 0.4rem 0.8rem;
 border-radius: 8px;
 text-decoration: none;
 }
@@ -100,12 +100,81 @@ color: var(--text) !important;
 
 
 .project-img-wrapper figcaption {
-  display: none;
+  display: none !important;
 }
+
+/* Resume */
 
 .resume-viewer {
     border: 1px solid var(--muted);
     border-radius: 5px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 6px;
+}
+
+/* Home Page */
+
+.home-card {
+    margin-bottom: 2rem;
+    padding: 1rem 2rem 0rem 2rem;
+}
+
+.home-card figcaption {
+  display: none !important;
+}
+
+.home-card h2 {
+    margin-top: 0rem !important;
+}
+
+.home-card .columns {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+   gap: 2rem !important;
+}
+
+.home-img{
+    width: 100%;
+    max-width: 300px;
+    height: auto; 
+    object-fit: cover;
+    border-radius: 14px;
+    border: 0px solid var(--muted);
+}
+
+.about-card {
+    margin-bottom: 1.5rem;
+    padding: 1.5rem 2rem 1rem 2rem;
+}
+
+.about-card h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    margin-top: 0rem !important;
+}
+
+.about-card .btn {
+    display: block;
+    margin: 1.5rem auto 0rem;
+    width: fit-content;
+}
+
+.selected-card {
+    margin-bottom: 2rem;
+    padding: 1rem 2rem 0rem 2rem;
+    text-align: center;
+}
+
+.selected-card .columns {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+   gap: 2rem !important;
+}
+
+.selected-card .btn {
+    display: block;
+    margin: 1rem auto 0rem;
+    width: fit-content;
 }
