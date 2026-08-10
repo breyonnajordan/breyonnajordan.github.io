@@ -1,0 +1,48 @@
+---
+title: An Experimental Test of Change Talk Exposure in Civic Contexts
+date: 2026-08-10
+status: selected 
+collections: university-major 
+methods: [persuasive-writing, literature-review, genre-study, rhetorical-analysis]
+outputs: [public-writing] 
+origin: course-final 
+notes: "first publication to the Argus"
+---
+
+## Overview
+
+This op-ed championed tempered radicalism as a pathway for those working inside institutions to create meaningful change through collaboration, coalition building, and showing up for others. Grounded in social psychology research, it made the argument that in our polarized society, we need not only activists, but also committed, imaginative insiders to take action. 
+
+## Context & Constraints
+
+I first heard about tempered radicalism in Erskine and Bilimoria’s 2019 journal article White Allyship of Afro-Diasporic Women in the Workplace: A Transformative Strategy for Organizational Change. At the time I was navigating a changing sense of identity as a worker, and took a prominent interest in any and all conceptualizations of changemakers. Tempered Radicals stood out to me as they were distinct from the constrictive narratives of work I was familiar with: corporate sell-outs, burnt-out activists, broke NGO employees. Tempered radicalism reflected a lot of long-standing beliefs I held but hadn’t yet seen represented in the workplace.
+
+I decided to focus on them for my Seminar on Social Action course final. For this project, we were tasked with presenting a clear position on a social, educational, or cultural issue and grounding our arguments in social psychology research. Furthermore, our articles had to be 800 words or less, requiring precision and concision, both of which were initially outside my comfort zone. 
+
+## Approach 
+
+As part of the course structure, we wrote outlines, provided first drafts, completed peer reviews during a workshop led by a university writing tutor, and then submitted final drafts. To collect sources, I primarily used my university library portal to find articles under the keyword “tempered radical”, then expanding to terms I needed to define like “constructive deviance” or fields I wanted to find explorations within, “tempered radicals manufacturing.” 
+
+As I wrote my first draft, I converted my readings to audios using Paper2Audio and listened to them while doing chores or going on walks. This allowed me to read many more sources during the busiest part of the semester and to assess which sources were worth using, or rereading, and which could be set aside. 
+
+For my final draft, I used the feedback I had received encouraging me to add more examples, limit hedging language, and employ a decisive tone to appeal to the genre norms. I also read and analyzed many op-ed and tried to apply their techniques: clear language, direct appeals, and more repetition than I might typically use. 
+
+## What I Learned 
+
+As difficult as it was to experiment with a new format, to conduct a deep dive into research surrounding institutional change, to finish my revisions before the short deadline; the real challenge of this project was not in its writing, but in its publishing. 
+
+I decided in January that 2026 would be a year of publishing, of giving my imperfect writing and beliefs to the public for all to see. This was a terrifying proposition. I struggle with perfectionism, I hate making mistakes, and I worry far too much about what people will think of me. I found this was getting in the way of my ability to grow as a writer and thinker, as I was avoiding opportunities to write. So on April 24th, I published this article to the Wesleyan Argus. And when I didn’t die, I decided to make a Substack. 
+
+## So What?
+
+I don’t agree with the entirety of this article anymore. In the space between its writing and now, I’ve read more than 40 books on social theory and political history, and reimaginings of our future. I studied abroad in Germany, connected with family in London, and spent a lot of time at train stations and bus stops thinking. I’ve come to see tempered radicals as a small part of a wide group of builders and would write a somewhat different article if I was starting this project from scratch. I would emphasize the need for collective pursuits inside the workplace, the importance of community-building outside of the office to create security, and the challenge and discomfort that comes with being a builder. 
+
+Notably, though, I still agree with its core messages: we can all be a part of building a better world regardless of our job title, we need to form broader coalitions and make allies even within corporate spaces, we must understand our institutions and work for more than just our own survival. 
+
+Furthermore, audience-based communication is a core tenet of my Data & Communication major, so this article isn’t worthless. It wouldn’t be even if I one day disagreed with every single word. It’s a learning opportunity. And given that the world didn’t end just because my opinions have evolved, I guess I’ll have to keep writing.  Ultimately, writing helps us sharpen our thinking. As a worldbuilder, I consider it a paramount skill. 
+
+## Links
+- [Github Repo](https://github.com/breyonnajordan/change-talk-experiment)
+- [Research Paper (PDF)](change-talk-paper.pdf)
+- [Poster (PDF)](change-talk-poster.pdf)
+- [Presentation (PDF)](change-talk-presentation.pdf)

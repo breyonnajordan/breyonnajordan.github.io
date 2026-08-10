@@ -1,6 +1,6 @@
 ---
-title: An Experimental Test of Change Talk Exposure in Civic Contexts
-date: 2025-02-01
+title: An Op-ed on Tempered Radicalism
+date: 2026-02-01
 status: selected 
 collections: university-major 
 methods: [survey-design, causal-inference, statistical-modeling, data-visualization, experimental-design, academic-writing, presentation-design]
