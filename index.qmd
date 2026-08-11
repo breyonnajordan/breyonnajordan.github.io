@@ -18,7 +18,7 @@ title: "Glad you're here!"
 
 I combine data analysis with persuasive communication to inform strategy and motivate action. 
 
-[View Project](projects/university-major.qmd){.btn}
+[View My Work](projects.html){.btn}
 
 :::
 
@@ -38,8 +38,7 @@ I am a Wesleyan University senior investigating how data and communication, as i
 
 - **Data & Research:** Conducting surveys and assessing behavioral data to test hypotheses and inform strategy
 - **Communication & Writing:** Transforming complex research and realities into engaging narratives for public and professional audiences. 
-- **Versatile Application** Navigating interdisciplinary contexts to provide clear insights: from courses, to corporations, to clients. 
-
+- **Versatile Application:** Navigating interdisciplinary contexts to provide clear insights: from courses, to corporations, to clients. 
 
 [See My Resume](resume.qmd){.btn}
 
@@ -59,7 +58,7 @@ I am a Wesleyan University senior investigating how data and communication, as i
 
 ### Experimental Design Final
 **Change Talk Experiment**  
-A study on individual's change talk and civic engagement intentions. 
+A study on individuals' change talk and civic engagement intentions. 
 
 [Read More](projects/university-major/change-talk-experiment.html)
 :::
