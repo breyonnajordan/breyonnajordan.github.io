@@ -16,7 +16,7 @@ title: "Glad you're here!"
 
 ## I'm Breyonna.
 
-As a worldbuilder, I see data and storytelling as languages of evidence that inform and motivate action. I use research and writing to support the development of resilient, regenerative communities.
+I combine data analysis with persuasive communication to inform strategy and motivate action. 
 
 [View Project](projects/university-major.qmd){.btn}
 
@@ -34,11 +34,11 @@ As a worldbuilder, I see data and storytelling as languages of evidence that inf
 
 ## About Me
 
-I am a Wesleyan University senior investigating the relationships between data analysis and communication in public life. My work is fed by curiosity, imagination, and a desire to help build local communities and broader systems that support people and their homes while moving beyond extractive frameworks. 
+I am a Wesleyan University senior investigating how data and communication, as interwoven practices, influence public life. My work focuses on crafting experiments and designing narratives that make evidence accessible and encourage civic engagement. 
 
-- **Data & Research:** Analyzing social-psychological tactics for increasing civic engagment 
-- **Writing:** Exploring social theory, community development, and personal growth on [Substack](https://breyonnajordan.substack.com/).
-- **Values:** Collaboration, Adaptability, and Inquiry
+- **Data & Research:** Conducting surveys and assessing behavioral data to test hypotheses and inform strategy
+- **Communication & Writing:** Transforming complex research and realities into engaging narratives for public and professional audiences. 
+- **Versatile Application** Navigating interdisciplinary contexts to provide clear insights: from courses, to corporations, to clients. 
 
 
 [See My Resume](resume.qmd){.btn}
@@ -68,7 +68,7 @@ A study on individual's change talk and civic engagement intentions.
 **Tempered Radicals**  
 Everyone can participate in building the future. 
 
-[Read More](projects/social-action-oped.html)
+[Read More](projects/university-major/social-action-oped.html)
 :::
 :::
 [View More Projects](projects.qmd){.btn}
@@ -80,7 +80,7 @@ Everyone can participate in building the future.
 
 ## Let's Connect!
 
-I am always open to connecting with fellow researchers, writers, and worldbuilders. 
+I’d love to connect with anyone doing interesting work, asking strong questions, or building something new!
 
 **Email:** [breyonnajordan@protonmail.com](mailto:breyonnajordan@protonmail.com)
 
