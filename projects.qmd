@@ -36,7 +36,7 @@ As part of my assessment for the Data & Communication major, I practiced various
 
 ::::: {#image .project-img-wrapper}
 
-[![Project Image](images/university-major.png){.project-img}](projects/statistical-consulting.html)
+[![Project Image](images/stat-consulting.png){.project-img}](projects/statistical-consulting.html)
 
 :::::
 
