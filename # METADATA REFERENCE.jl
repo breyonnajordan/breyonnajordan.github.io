@@ -38,8 +38,8 @@ collections:
 # --------------------------
 # Data & Analysis
 # --------------------------
-survey-design            # designing surveys, question construction, sampling
-causal-inference         # experiments, quasi-experiments, causal modeling
+survey-design             # designing surveys, question construction, sampling
+causal-inference          # experiments, quasi-experiments, causal modeling
 regression-analysis       # linear, logistic, multilevel, etc.
 statistical-modeling      # general statistical modeling skills
 data-visualization        # charts, plots, dashboards
@@ -84,6 +84,7 @@ outputs:
   - presentation     # Slides, talk, poster, or workshop
   - website          # Interactive dashboard, Quarto page, Shiny app
   - visualization    # Standalone figure, infographic, or chart
+  - report
 
 # --------------------------
 # Tools

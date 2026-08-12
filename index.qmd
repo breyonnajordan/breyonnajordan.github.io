@@ -63,11 +63,11 @@ A study on individuals' change talk and civic engagement intentions.
 [Read More](projects/university-major/change-talk-experiment.html)
 :::
 ::: {.column width="45%"}
-### Social Action Op-Ed
-**Tempered Radicals**  
-Everyone can participate in building the future. 
+### Statistical Consulting
+**Community Health Services**  
+An analysis of demographic and behavioral predictors of adverse health outcomes.
 
-[Read More](projects/university-major/social-action-oped.html)
+[Read More](projects/statistical-consulting.html)
 :::
 :::
 [View More Projects](projects.qmd){.btn}
