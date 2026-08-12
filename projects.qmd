@@ -36,17 +36,17 @@ As part of my assessment for the Data & Communication major, I practiced various
 
 ::::: {#image .project-img-wrapper}
 
-[![Project Image](images/university-major.png){.project-img}](projects/sample-project.qmd)
+[![Project Image](images/university-major.png){.project-img}](projects/statistical-consulting.qmd)
 
 :::::
 
 ::::: {#text}
 
-## Sample Project
+## Statistical Consulting Project 
 
-Here's the project description.
+Through a Wesleyan course, I worked in a three-person team to provide statistical consulting and data analysis for a community-based health organization in New England.
 
-[View Project](projects/university-major.qmd){.btn}
+[View Project](projects/statistical-consulting.qmd){.btn}
 
 :::::
 

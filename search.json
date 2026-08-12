@@ -49,74 +49,46 @@
     "text": "Let’s Connect!\nI’d love to connect with anyone doing interesting work, asking strong questions, or building something new!\nEmail: breyonnajordan@protonmail.com\nLinkedIn: linkedin.com/in/breyonnajordan\nSubstack: breyonnajordan.substack.com"
   },
   {
-    "objectID": "projects/university-major.html",
-    "href": "projects/university-major.html",
-    "title": "University Major Portfolio",
+    "objectID": "projects/statistical-constuling.html",
+    "href": "projects/statistical-constuling.html",
+    "title": "Statistical Consulting Project: Community Health Services",
     "section": "",
-    "text": "During the fall of my junior year, I pitched and was approved for a self-designed University Major in Data & Communication.\nThe major considers data and rhetoric as two languages of evidence that together influence how contemporary societies understand truth, establish credibility, and motivate collective action. It aims to study communication empirically, examine the communication of data ethically, and to explore how these modes of evidence operate in tandem and shape our perspectives on data, rhetoric, and the social world.\nAs part of my assessment for this major, I have developed a portfolio exploring a range of genres and audiences. The following artifacts span everything from survey design to statistical modeling to presentation development to persuasive writing. The goal is to practice writing modes from all three pillars of the major: Data Analysis and Research Methodology, Rhetorical Theory and Writing Praxis, and the Social Psychology of Civic Engagement; and reflect on these interdisciplinary approaches."
+    "text": "In Fall 2025, I worked as part of a three-person team to provide statistical consulting and data analysis for a community-based health organization in New England. We examined how demographic, behavioral, and clinical characteristics predicted adverse health events in order to help the organization understand their patients and target resources effectively. To this end, we engaged in conversations with the client regularly, and provided iterative analyses, an oral presentation, a final report, and reproducible R code."
   },
   {
-    "objectID": "projects/university-major.html#included-work",
-    "href": "projects/university-major.html#included-work",
-    "title": "University Major Portfolio",
-    "section": "Included Work",
-    "text": "Included Work\n\nExperimental Design Final Project\nPsychology Seminar on Social Action Op-Ed\nMultimodality Final Paper\nData Journalism Term Project\nCapstone: Academic Write-Up\nCapstone: Public Explainer\nCapstone: Presentation and Oral Defense"
-  },
-  {
-    "objectID": "projects/university-major/social-action-oped.html",
-    "href": "projects/university-major/social-action-oped.html",
-    "title": "An Op-ed on Tempered Radicalism",
+    "objectID": "projects/statistical-constuling.html#overview",
+    "href": "projects/statistical-constuling.html#overview",
+    "title": "Statistical Consulting Project: Community Health Services",
     "section": "",
-    "text": "The op-ed, “Tired of Choosing Between Selling Out and Shouting?”, championed tempered radicalism as a pathway for those working inside institutions to create meaningful change through collaboration, coalition building, and showing up for others. Grounded in social psychology research, it made the argument that in our polarized society, we need not only activists, but also committed, imaginative insiders to take action."
+    "text": "In Fall 2025, I worked as part of a three-person team to provide statistical consulting and data analysis for a community-based health organization in New England. We examined how demographic, behavioral, and clinical characteristics predicted adverse health events in order to help the organization understand their patients and target resources effectively. To this end, we engaged in conversations with the client regularly, and provided iterative analyses, an oral presentation, a final report, and reproducible R code."
   },
   {
-    "objectID": "projects/university-major/social-action-oped.html#overview",
-    "href": "projects/university-major/social-action-oped.html#overview",
-    "title": "An Op-ed on Tempered Radicalism",
-    "section": "",
-    "text": "The op-ed, “Tired of Choosing Between Selling Out and Shouting?”, championed tempered radicalism as a pathway for those working inside institutions to create meaningful change through collaboration, coalition building, and showing up for others. Grounded in social psychology research, it made the argument that in our polarized society, we need not only activists, but also committed, imaginative insiders to take action."
-  },
-  {
-    "objectID": "projects/university-major/social-action-oped.html#context-constraints",
-    "href": "projects/university-major/social-action-oped.html#context-constraints",
-    "title": "An Op-ed on Tempered Radicalism",
+    "objectID": "projects/statistical-constuling.html#context-constraints",
+    "href": "projects/statistical-constuling.html#context-constraints",
+    "title": "Statistical Consulting Project: Community Health Services",
     "section": "Context & Constraints",
-    "text": "Context & Constraints\nI first heard about tempered radicalism in Erskine and Bilimoria’s 2019 journal article White Allyship of Afro-Diasporic Women in the Workplace: A Transformative Strategy for Organizational Change. At the time I was navigating a changing sense of identity as a worker, and took a prominent interest in any and all conceptualizations of changemakers. Tempered Radicals stood out to me as they were distinct from the constrictive narratives of work I was familiar with: corporate sell-outs, burnt-out activists, broke NGO employees. Tempered radicalism reflected a lot of long-standing beliefs I held but hadn’t yet seen represented in the workplace.\nI decided to focus on them for my Seminar on Social Action course final. For this project, we were tasked with presenting a clear position on a social, educational, or cultural issue and grounding our arguments in social psychology research. Furthermore, our articles had to be 800 words or less, requiring precision and concision, both of which were initially outside my comfort zone."
+    "text": "Context & Constraints\nAs part of Wesleyan University’s Statistical Consulting course, two other students and myself were paired together based on our distribution of skills and assigned to an organization’s research project. As these projects involved working with depersonalized, sensitive data and getting behind the scenes of the organization, we all signed NDAs and maintain confidentiality about the project. To this end, we used private drives and github repositories, and took strict measures to ensure the data was not externally shared.\nThe data we worked with included patient health forms and it had not been cleaned. As a team, we navigated incomplete records and lack of documentation. We also maintained high ethical standards and transparency throughout the process, completing the CITI human subjects training, providing documentation throughout the process, and adhering to scientific standards of integrity."
   },
   {
-    "objectID": "projects/university-major/social-action-oped.html#approach",
-    "href": "projects/university-major/social-action-oped.html#approach",
-    "title": "An Op-ed on Tempered Radicalism",
+    "objectID": "projects/statistical-constuling.html#approach",
+    "href": "projects/statistical-constuling.html#approach",
+    "title": "Statistical Consulting Project: Community Health Services",
     "section": "Approach",
-    "text": "Approach\nAs part of the course structure, we wrote outlines, provided first drafts, completed peer reviews during a workshop led by a university writing tutor, and then submitted final drafts. To collect sources, I primarily used my university library portal to find articles under the keyword “tempered radical”, then expanding to terms I needed to define like “constructive deviance” or fields I wanted to find explorations within, “tempered radicals manufacturing.”\nAs I wrote my first draft, I converted my readings to audios using Paper2Audio and listened to them while doing chores or going on walks. This allowed me to read many more sources during the busiest part of the semester and to assess which sources were worth using, or rereading, and which could be set aside.\nFor my final draft, I used the feedback I had received encouraging me to add more examples, limit hedging language, and employ a decisive tone to appeal to the genre norms. I also read and analyzed many op-ed and tried to apply their techniques: clear language, direct appeals, and more repetition than I might typically use."
+    "text": "Approach\nFor this project, we conducted an intake interview with the client to translate goals and objectives into measurable research hypotheses. We cleaned the data, completed a short literature review, and determined our approach to answering these questions: descriptive statistics, multinomial logit regressions, and a latent class analysis. Team code was shared and managed using Git/Github to allow for reproducibility, version control, and collaboration."
   },
   {
-    "objectID": "projects/university-major/social-action-oped.html#what-i-learned",
-    "href": "projects/university-major/social-action-oped.html#what-i-learned",
-    "title": "An Op-ed on Tempered Radicalism",
+    "objectID": "projects/statistical-constuling.html#what-i-learned",
+    "href": "projects/statistical-constuling.html#what-i-learned",
+    "title": "Statistical Consulting Project: Community Health Services",
     "section": "What I Learned",
-    "text": "What I Learned\nAs difficult as it was to experiment with a new format, to conduct a deep dive into research surrounding institutional change, to finish my revisions before the short deadline; the real challenge of this project was not in its writing, but in its publishing.\nI decided in January that 2026 would be a year of publishing, of giving my imperfect writing and beliefs to the public for all to see. This was a terrifying proposition. I struggle with perfectionism, I hate making mistakes, and I worry far too much about what people will think of me. I found this was getting in the way of my ability to grow as a writer and thinker, as I was avoiding opportunities to write. So on April 24th, I published this article to the Wesleyan Argus. And when I didn’t die, I decided to make a Substack."
+    "text": "What I Learned\nIn this course, we not only learned to use Github and new methods of analysis, but also spent a lot of time exploring the nonstatistical aspects of statistical consulting. We covered ethics in data science, data storytelling, techniques for interviewing clients, and consulting reports as a writing genre. We were able to practice working directly with clients with limited familiarity with research and data analysis, using AI as a learning tool without compromising confidentiality, and completing statistical consulting projects collaboratively.\nOne key learning I was able to gain through this team work was the importance of cross-functional collaboration. Our team used a highly-structured division of labor. While this, improved specialization and allowed me to take ownership of our latent class analysis, it also meant that cross-review was deprioritized, and led to an error in how adverse events were measured in one section being caught later than necessary. In the future, when doing work in small teams, I would also prioritize collective ownership to strengthen cross-review and flexibility."
   },
   {
-    "objectID": "projects/university-major/social-action-oped.html#so-what",
-    "href": "projects/university-major/social-action-oped.html#so-what",
-    "title": "An Op-ed on Tempered Radicalism",
+    "objectID": "projects/statistical-constuling.html#so-what",
+    "href": "projects/statistical-constuling.html#so-what",
+    "title": "Statistical Consulting Project: Community Health Services",
     "section": "So What?",
-    "text": "So What?\nI don’t agree with the entirety of this article anymore. In the space between its writing and now, I’ve read more than 40 books on social theory and political history, and reimaginings of our future. I studied abroad in Germany, connected with family in London, and spent a lot of time at train stations and bus stops thinking. I’ve come to see tempered radicals as a small part of a wide group of builders and would write a somewhat different article if I was starting this project from scratch. I would emphasize the need for collective pursuits inside the workplace, the importance of community-building outside of the office to create security, and the challenge and discomfort that comes with being a builder.\nNotably, though, I still agree with its core messages: we can all be a part of building a better world regardless of our job title, we need to form broader coalitions and make allies even within corporate spaces, we must understand our institutions and work for more than just our own survival.\nFurthermore, audience-based communication is a core tenet of my Data & Communication major, so this article isn’t worthless. It wouldn’t be even if I one day disagreed with every single word. It’s a learning opportunity. And given that the world didn’t end just because my opinions have evolved, I guess I’ll have to keep writing. Ultimately, writing helps us sharpen our thinking. As a worldbuilder, I consider it a paramount skill."
-  },
-  {
-    "objectID": "projects/university-major/social-action-oped.html#links",
-    "href": "projects/university-major/social-action-oped.html#links",
-    "title": "An Op-ed on Tempered Radicalism",
-    "section": "Links",
-    "text": "Links\n\nWesleyan Argus\nSubstack"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "This page will hold a PDF copy of my most recent resume.\n\n\n\n\n\n\nDownload"
+    "text": "So What?\nThis experience gave me the opportunity to use data analysis as more than just a tool of discovery. In working with real-world data and clients, I understand research as an act of stewardship. It taught me to work collaboratively and responsibly to navigate ambiguity and translate complex statistics into actionable insights that our client could use to continue and improve their meaningful work. Behind every data point is a person and by providing analyses through effective and ethical communication, we can honor complexity and create stronger institutions that they benefit from. This is a core tenet of my Data & Communication major: that rigorous evidence only matters if it is communicated with integrity, clarity, and empathy."
   },
   {
     "objectID": "projects/university-major/change-talk-experiment.html",
@@ -175,6 +147,76 @@
     "text": "Links\n\nGithub Repo\nResearch Paper (PDF)\nPoster (PDF)\nPresentation (PDF)"
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This page will hold a PDF copy of my most recent resume.\n\n\n\n\n\n\nDownload"
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html",
+    "href": "projects/university-major/social-action-oped.html",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "",
+    "text": "The op-ed, “Tired of Choosing Between Selling Out and Shouting?”, championed tempered radicalism as a pathway for those working inside institutions to create meaningful change through collaboration, coalition building, and showing up for others. Grounded in social psychology research, it made the argument that in our polarized society, we need not only activists, but also committed, imaginative insiders to take action."
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html#overview",
+    "href": "projects/university-major/social-action-oped.html#overview",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "",
+    "text": "The op-ed, “Tired of Choosing Between Selling Out and Shouting?”, championed tempered radicalism as a pathway for those working inside institutions to create meaningful change through collaboration, coalition building, and showing up for others. Grounded in social psychology research, it made the argument that in our polarized society, we need not only activists, but also committed, imaginative insiders to take action."
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html#context-constraints",
+    "href": "projects/university-major/social-action-oped.html#context-constraints",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "Context & Constraints",
+    "text": "Context & Constraints\nI first heard about tempered radicalism in Erskine and Bilimoria’s 2019 journal article White Allyship of Afro-Diasporic Women in the Workplace: A Transformative Strategy for Organizational Change. At the time I was navigating a changing sense of identity as a worker, and took a prominent interest in any and all conceptualizations of changemakers. Tempered Radicals stood out to me as they were distinct from the constrictive narratives of work I was familiar with: corporate sell-outs, burnt-out activists, broke NGO employees. Tempered radicalism reflected a lot of long-standing beliefs I held but hadn’t yet seen represented in the workplace.\nI decided to focus on them for my Seminar on Social Action course final. For this project, we were tasked with presenting a clear position on a social, educational, or cultural issue and grounding our arguments in social psychology research. Furthermore, our articles had to be 800 words or less, requiring precision and concision, both of which were initially outside my comfort zone."
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html#approach",
+    "href": "projects/university-major/social-action-oped.html#approach",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "Approach",
+    "text": "Approach\nAs part of the course structure, we wrote outlines, provided first drafts, completed peer reviews during a workshop led by a university writing tutor, and then submitted final drafts. To collect sources, I primarily used my university library portal to find articles under the keyword “tempered radical”, then expanding to terms I needed to define like “constructive deviance” or fields I wanted to find explorations within, “tempered radicals manufacturing.”\nAs I wrote my first draft, I converted my readings to audios using Paper2Audio and listened to them while doing chores or going on walks. This allowed me to read many more sources during the busiest part of the semester and to assess which sources were worth using, or rereading, and which could be set aside.\nFor my final draft, I used the feedback I had received encouraging me to add more examples, limit hedging language, and employ a decisive tone to appeal to the genre norms. I also read and analyzed many op-ed and tried to apply their techniques: clear language, direct appeals, and more repetition than I might typically use."
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html#what-i-learned",
+    "href": "projects/university-major/social-action-oped.html#what-i-learned",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "What I Learned",
+    "text": "What I Learned\nAs difficult as it was to experiment with a new format, to conduct a deep dive into research surrounding institutional change, to finish my revisions before the short deadline; the real challenge of this project was not in its writing, but in its publishing.\nI decided in January that 2026 would be a year of publishing, of giving my imperfect writing and beliefs to the public for all to see. This was a terrifying proposition. I struggle with perfectionism, I hate making mistakes, and I worry far too much about what people will think of me. I found this was getting in the way of my ability to grow as a writer and thinker, as I was avoiding opportunities to write. So on April 24th, I published this article to the Wesleyan Argus. And when I didn’t die, I decided to make a Substack."
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html#so-what",
+    "href": "projects/university-major/social-action-oped.html#so-what",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "So What?",
+    "text": "So What?\nI don’t agree with the entirety of this article anymore. In the space between its writing and now, I’ve read more than 40 books on social theory and political history, and reimaginings of our future. I studied abroad in Germany, connected with family in London, and spent a lot of time at train stations and bus stops thinking. I’ve come to see tempered radicals as a small part of a wide group of builders and would write a somewhat different article if I was starting this project from scratch. I would emphasize the need for collective pursuits inside the workplace, the importance of community-building outside of the office to create security, and the challenge and discomfort that comes with being a builder.\nNotably, though, I still agree with its core messages: we can all be a part of building a better world regardless of our job title, we need to form broader coalitions and make allies even within corporate spaces, we must understand our institutions and work for more than just our own survival.\nFurthermore, audience-based communication is a core tenet of my Data & Communication major, so this article isn’t worthless. It wouldn’t be even if I one day disagreed with every single word. It’s a learning opportunity. And given that the world didn’t end just because my opinions have evolved, I guess I’ll have to keep writing. Ultimately, writing helps us sharpen our thinking. As a worldbuilder, I consider it a paramount skill."
+  },
+  {
+    "objectID": "projects/university-major/social-action-oped.html#links",
+    "href": "projects/university-major/social-action-oped.html#links",
+    "title": "An Op-ed on Tempered Radicalism",
+    "section": "Links",
+    "text": "Links\n\nWesleyan Argus\nSubstack"
+  },
+  {
+    "objectID": "projects/university-major.html",
+    "href": "projects/university-major.html",
+    "title": "University Major Portfolio",
+    "section": "",
+    "text": "During the fall of my junior year, I pitched and was approved for a self-designed University Major in Data & Communication.\nThe major considers data and rhetoric as two languages of evidence that together influence how contemporary societies understand truth, establish credibility, and motivate collective action. It aims to study communication empirically, examine the communication of data ethically, and to explore how these modes of evidence operate in tandem and shape our perspectives on data, rhetoric, and the social world.\nAs part of my assessment for this major, I have developed a portfolio exploring a range of genres and audiences. The following artifacts span everything from survey design to statistical modeling to presentation development to persuasive writing. The goal is to practice writing modes from all three pillars of the major: Data Analysis and Research Methodology, Rhetorical Theory and Writing Praxis, and the Social Psychology of Civic Engagement; and reflect on these interdisciplinary approaches."
+  },
+  {
+    "objectID": "projects/university-major.html#included-work",
+    "href": "projects/university-major.html#included-work",
+    "title": "University Major Portfolio",
+    "section": "Included Work",
+    "text": "Included Work\n\nExperimental Design Final Project\nPsychology Seminar on Social Action Op-Ed\nMultimodality Final Paper\nData Journalism Term Project\nCapstone: Academic Write-Up\nCapstone: Public Explainer\nCapstone: Presentation and Oral Defense"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -189,11 +231,11 @@
     "text": "University Major Portfolio\nAs part of my assessment for the Data & Communication major, I practiced various modes of academic and persuasive writing. Key works are assembled in this collection.\nView Collection"
   },
   {
-    "objectID": "projects.html#sample-project",
-    "href": "projects.html#sample-project",
+    "objectID": "projects.html#statistical-consulting-project",
+    "href": "projects.html#statistical-consulting-project",
     "title": "Projects",
-    "section": "Sample Project",
-    "text": "Sample Project\nHere’s the project description.\nView Project"
+    "section": "Statistical Consulting Project",
+    "text": "Statistical Consulting Project\nThrough a Wesleyan course, I worked in a three-person team to provide statistical consulting and data analysis for a community-based health organization in New England.\nView Project"
   },
   {
     "objectID": "writing.html",

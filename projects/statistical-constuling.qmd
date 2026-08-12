@@ -1,0 +1,36 @@
+---
+title: "Statistical Consulting Project: Community Health Services"
+date: 2025-12-10
+status: selected 
+collections: university-major 
+methods: [statistical-consulting, statistical-modeling, data-visualization, regression-analysis]
+outputs: [report, presentation, visualization] 
+tools: [R, Git, GitHub, PowerPoint]
+origin: course-final 
+notes: "Confidential client project; details redacted per NDA"
+---
+
+## Overview
+
+In Fall 2025, I worked as part of a three-person team to provide statistical consulting and data analysis for a community-based health organization in New England. We examined how demographic, behavioral, and clinical characteristics predicted adverse health events in order to help the organization understand their patients and target resources effectively. To this end, we engaged in conversations with the client regularly, and provided iterative analyses, an oral presentation, a final report, and reproducible R code. 
+
+## Context & Constraints
+
+As part of Wesleyan University’s Statistical Consulting course, two other students and myself were paired together based on our distribution of skills and assigned to an organization’s research project. As these projects involved working with depersonalized, sensitive data and getting behind the scenes of the organization, we all signed NDAs and maintain confidentiality about the project. To this end, we used private drives and github repositories, and took strict measures to ensure the data was not externally shared. 
+
+
+The data we worked with included patient health forms and it had not been cleaned. As a team, we navigated incomplete records and lack of documentation. We also maintained high ethical standards and transparency throughout the process, completing the CITI human subjects training, providing documentation throughout the process, and adhering to scientific standards of integrity. 
+
+## Approach
+
+For this project, we conducted an intake interview with the client to translate goals and objectives into measurable research hypotheses. We cleaned the data, completed a short literature review, and determined our approach to answering these questions: descriptive statistics, multinomial logit regressions, and a latent class analysis. Team code was shared and managed using Git/Github to allow for reproducibility, version control, and collaboration. 
+
+## What I Learned
+
+In this course, we not only learned to use Github and new methods of analysis, but also spent a lot of time exploring the nonstatistical aspects of statistical consulting. We covered ethics in data science, data storytelling, techniques for interviewing clients, and consulting reports as a writing genre. We were able to practice working directly with clients with limited familiarity with research and data analysis, using AI as a learning tool without compromising confidentiality, and completing statistical consulting projects collaboratively. 
+
+One key learning I was able to gain through this team work was the importance of cross-functional collaboration. Our team used a highly-structured division of labor. While this, improved specialization and allowed me to take ownership of our latent class analysis, it also meant that cross-review was deprioritized, and led to an error in how adverse events were measured in one section being caught later than necessary. In the future, when doing work in small teams, I would also prioritize collective ownership to strengthen cross-review and flexibility. 
+
+## So What?
+
+This experience gave me the opportunity to use data analysis as more than just a tool of discovery. In working with real-world data and clients, I understand research as an act of stewardship. It taught me to work collaboratively and responsibly to navigate ambiguity and translate complex statistics into actionable insights that our client could use to continue and improve their meaningful work. Behind every data point is a person and by providing analyses through effective and ethical communication, we can honor complexity and create stronger institutions that they benefit from. This is a core tenet of my Data & Communication major: that rigorous evidence only matters if it is communicated with integrity, clarity, and empathy. 
